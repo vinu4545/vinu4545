@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/vinay-gaddam-a9554a31b/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="https://leetcode.com/u/vinu-45/">
+  <a href="https://leetcode.com/u/vinu_45/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode">
   </a>
   <a href="https://www.hackerrank.com/dashboard">
